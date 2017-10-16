@@ -8,7 +8,7 @@ In `Project #5 - Vehicle Detection and Tracking`, we used computer vision and cl
 
 ## Feature Extraction
 (Code for this section can be found in `extract_features()` in `lesson_functions.py` on line 51)
-We began by applying feature extraction techniques to our data. Our data was provided by Udacity, and featured about 8,000 images, split up into vehicles and non-vehicles. Vehicles images can be found in here [here] (https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/vehicles.zip), while non-vehicle images can be found in the `non-vehicles` [here] (https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/non-vehicles.zip) . Below are two examples of vehicle and non-vehicle training images, respectively:
+We began by applying feature extraction techniques to our data. Our data was provided by Udacity, and featured about 8,000 images, split up into vehicles and non-vehicles. Vehicles images can be found in here [here](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/vehicles.zip), while non-vehicle images can be found in the `non-vehicles` [here](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/non-vehicles.zip) . Below are two examples of vehicle and non-vehicle training images, respectively:
 
 
 ![alt tag](https://s24.postimg.org/6di7d6wfp/image0944.png)
